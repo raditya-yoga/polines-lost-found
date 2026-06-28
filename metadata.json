@@ -1,0 +1,6 @@
+{
+  "name": "POLINES Lost & Found",
+  "description": "The official portal for Politeknik Negeri Semarang students to report, track, and recover lost items within the campus ecosystem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
